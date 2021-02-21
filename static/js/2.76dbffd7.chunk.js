@@ -1,0 +1,2 @@
+(this.webpackJsonpperseverance=this.webpackJsonpperseverance||[]).push([[2],{108:function(e,t,s){"use strict";s.r(t);var c=s(1);t.default=function(e){var t=e.src,s=e.width,r=e.height;return Object(c.jsx)("img",{src:"/img/svg/".concat(t),alt:t,with:s,height:r})}}}]);
+//# sourceMappingURL=2.76dbffd7.chunk.js.map
